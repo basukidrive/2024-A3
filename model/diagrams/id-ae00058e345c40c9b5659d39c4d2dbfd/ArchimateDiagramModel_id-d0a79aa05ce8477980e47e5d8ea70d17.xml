@@ -55,7 +55,7 @@
     <bounds
         x="96"
         y="36"
-        width="613"
+        width="601"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -101,7 +101,7 @@
         id="id-e55908fbd49f41c89b78e999901b3c20"
         targetConnections="id-58e72218a2d04949b9b5cf9db112dcb1">
       <bounds
-          x="468"
+          x="456"
           y="36"
           width="120"
           height="55"/>
@@ -294,7 +294,7 @@
           href="CompositionRelationship_id-93e9cf6fcc014846aa17970344e223b2.xml#id-93e9cf6fcc014846aa17970344e223b2"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="396"
         y="240"
         width="145"
         height="289"/>
@@ -317,7 +317,7 @@
         targetConnections="id-fbd7c1a4ecb841abace96fee50f739ce">
       <bounds
           x="12"
-          y="120"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -373,7 +373,7 @@
           href="CompositionRelationship_id-8e4f2f5fcf304717a77ba2e8b8a425e6.xml#id-8e4f2f5fcf304717a77ba2e8b8a425e6"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="552"
         y="240"
         width="145"
         height="289"/>
