@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vision"
+    name="A1-Visi Misi"
     id="id-c66b7480baff4696a30742aad2f5289d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -37,7 +37,7 @@
         x="120"
         y="240"
         width="661"
-        height="289"/>
+        height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3218f9cdba6d4c72bec097248c8c8cda"
@@ -45,8 +45,8 @@
       <bounds
           x="48"
           y="51"
-          width="121"
-          height="95"/>
+          width="169"
+          height="82"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-8b9a987a877f422b883698749045ac29.xml#id-8b9a987a877f422b883698749045ac29"/>
@@ -56,10 +56,10 @@
         id="id-c8da48018fac4d09a82fbe3ddb748eb2"
         targetConnections="id-f5566a217e764f21abb7ea5b7e3cbbeb">
       <bounds
-          x="264"
+          x="240"
           y="51"
-          width="133"
-          height="95"/>
+          width="145"
+          height="82"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-c03155d25b684966b99854c5cc1de504.xml#id-c03155d25b684966b99854c5cc1de504"/>
@@ -69,10 +69,10 @@
         id="id-65132f12e1684670971ff2ae3a326b80"
         targetConnections="id-535b82783b9844aa903ea180319da3f3">
       <bounds
-          x="492"
+          x="408"
           y="51"
-          width="121"
-          height="142"/>
+          width="217"
+          height="82"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-953be36d42ac4fb5a9c6194cea274ad8.xml#id-953be36d42ac4fb5a9c6194cea274ad8"/>
