@@ -723,6 +723,16 @@
           source="id-2c952c0945fa4324b73c47c72eb821c9"
           target="id-f0cb58cbdbce49f69d307db541cd4bf3">
         <bendpoints
+            startX="-22"
+            startY="57"
+            endX="54"
+            endY="-90"/>
+        <bendpoints
+            startX="-10"
+            startY="9"
+            endX="66"
+            endY="-138"/>
+        <bendpoints
             startX="-76"
             startY="9"
             endX="6"
